@@ -7,5 +7,5 @@ MY Resume
 ![cv4](https://user-images.githubusercontent.com/99129061/153182817-93f8fd28-b72b-496a-b63f-7e7b17e8d29d.png)
 ![cv5](https://user-images.githubusercontent.com/99129061/153182821-be8e5894-564d-4a53-8086-b9cc85da1834.png)
 
-
+# Images as GIF
 ![CV Gif](https://user-images.githubusercontent.com/99129061/153182582-563e3b28-09dd-4438-813e-ddc671063ad1.gif)
