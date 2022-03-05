@@ -1,5 +1,5 @@
 # My-Resume
-MY Resume
+MY Personal Website 
 Link the page : https://abdullah-salhab.github.io/My-Resume
 
 ## images
